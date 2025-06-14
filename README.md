@@ -4,7 +4,7 @@ A responsive UI clone of [Google AI Studio](https://aistudio.google.com), built 
 
 # Live Demo
 
-[Netlify Deployment Link](https://your-netlify-url.netlify.app)
+[Netlify Deployment Link](https://gogle-ai-studio.netlify.app/)
 
 # Tech Stack
 
