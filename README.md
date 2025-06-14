@@ -26,8 +26,8 @@ A responsive UI clone of [Google AI Studio](https://aistudio.google.com), built 
 # Setup Locally
 
 ```bash
-git clone https://github.com/ravi080298/google-ai-studio-clone.git
-cd google-ai-studio-clone
+git clone https://github.com/ravi080298/google-ai-studio.git
+cd google-ai-studio
 npm install
 npm run dev
 ```
